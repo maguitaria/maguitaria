@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Web programming student at OAMK. Currently studying Object Oriented Programming in Javascript.
+I am a Web programming student at OAMK.
 Welcome to see my projects!😄
 <!--
 **maguitaria/maguitaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
