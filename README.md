@@ -1,10 +1,11 @@
-### Hi there 👋
+
+# Hi there 👋
 
 Welcome to see my projects!😄
-# About me
+## About me
 - student in ICT, Web Dev
 - Hobbies: 🎸 📚 📸 
 - Originally from 🇺🇦
 
-# Favorite quote 
+ ### Favorite quote 
 > "Failure is success in progress" - Albert Einstein
