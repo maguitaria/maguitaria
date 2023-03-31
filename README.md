@@ -10,6 +10,12 @@ Welcome to see my projects!😄
  ### Favorite quote 
 > "Failure is success in progress" - Albert Einstein
 ### In other words
-`while (! (succeed = try() ) ) `
+`while (!success) {
+  try {
+    success = do()
+  } catch (failure) {
+    learn(failure)
+  }
+} `
 
 # Have fun :)
