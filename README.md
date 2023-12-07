@@ -4,7 +4,7 @@
 
 - 📚 Studying my Bachelor`s at **Web Development, OAMK,Oulu**
 -  💼👩‍💻 Just had my first internship at **NOKIA  Headquarters, Espoo/FI** as a MN RAN PLM developer in DCM (Digitised Commitment Management Team).
-- 🌱 I’m currently  learning **Cloud Services**
+- 🌱 I’m currently  developing **Shiply app**
 
 - 💬 Ask me about **Typescript, React, PHP, HTML/CSS, Bootstrap, Playwright**
 - 📫How to reach me **t2glma00@students.oamk.fi**
