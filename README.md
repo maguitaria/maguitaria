@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ni9iri&label=Profile%20views&color=0e75b6&style=flat" alt="ni9iri" /> </p>
 
 - 📚 Studying my Bachelor`s at **Web Development, OAMK,Oulu**
--  💼👩‍💻 Just had my first internship at **NOKIA  Headquarters, Espoo/FI** as a MN RAN PLM developer in DCM (Digitised Commitment Management Team).
-- 🌱 I’m currently studying Fourier series (DFT/FFT) for Big Data processing
+-  💼👩‍💻 Internship at **NOKIA  Headquarters, Espoo/FI** as a MN RAN PLM developer in DCM (Digitised Commitment Management Team).
+- 🌱 I’m currently studying Kotlin and Android development
 
-- 💬 Ask me about **Typescript, React, PHP, HTML/CSS, Bootstrap, Playwright**
+- 💬 Ask me about **Web development code languages and Android dev**
 - 📫How to reach me **t2glma00@students.oamk.fi**
 - Favorite quote:
  ```
