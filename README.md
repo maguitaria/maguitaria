@@ -20,4 +20,3 @@ I build **scalable applications** with a focus on **architecture, UI/UX, and per
 
 ## **Let's Connect**  
 📩 **Email:** [glushenkovamasha@gmail.com](mailto:glushenkovamasha@gmail.com)  
-💼 **GitHub:** [Mariia_GLushenkova](#)  
