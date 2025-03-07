@@ -1,33 +1,48 @@
-<h1 align="center">Hei, I am Mariia Glushenkova</h1>
+## **About Me**  
+I am a **full application developer** with expertise in **software architecture, UI design, and performance optimization**. My work spans **web development, iOS applications, and 3D programming**, where I focus on **scalability, efficiency, and user experience**.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ni9iri&label=Profile%20views&color=0e75b6&style=flat" alt="ni9iri" /> </p>
+I design and develop software solutions that are **fast, lightweight, and intuitive**, ensuring they perform well under real-world conditions. My approach combines **strong technical skills with a deep understanding of user interaction and system architecture**.  
 
-- 📚 Studying my Bachelor`s at **Web Development, OAMK,Oulu**
--  💼👩‍💻 Internship at **NOKIA  Headquarters, Espoo/FI** as a MN RAN PLM developer in DCM (Digitised Commitment Management Team).
-- 🌱 I’m currently studying Kotlin and Android development
+---
 
-- 💬 Ask me about **Web development code languages and Android dev**
-- 📫How to reach me **t2glma00@students.oamk.fi**
-- Favorite quote:
- ```
- “Failure is success in progress”
-- Albert Einstein
-```
--  🎸 Fun fact:  **I am a  passionate guitar player**
+## **Experience**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fi.linkedin.com/in/mariia-glushenkova-497208197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mariia_GLushenkova" height="30" width="40" /></a>
-</p>
+### **Projects**  
+- Developed **full-stack web applications**, integrating both **frontend and backend** to ensure seamless performance.  
+- Built **high-performance UI designs** optimized for **speed, usability, and accessibility**.  
+- Worked on **iOS applications**, focusing on **lightweight interfaces and efficient architecture**.  
+- Integrated **3D elements into web applications** to create **engaging and interactive experiences**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" width="40" height="40"/>
- </a> 
-</p>
+### **Nokia – Software developer**  
+- Support **product lifecycle management** by developing and maintaining **digital tools for process optimization**.  
+- Work in a **fast-paced, international environment**, collaborating with teams across different locations.  
+
+---
+
+## **Technical Skills**  
+
+### **Core Competencies**  
+- **Full Application Development** – from system architecture to UI/UX  
+- **Frontend Development** – creating responsive and scalable interfaces  
+- **Backend Development** – building robust APIs and database solutions  
+- **UI/UX Design** – designing intuitive and performance-driven user experiences  
+- **3D Programming** – integrating interactive visuals into applications  
+
+### **Technologies & Tools**  
+- **Frontend:** React, HTML, Typescript, Tailwind  
+- **Backend:** Node.js, MySQL, MongoDB, PHP 
+- **Mobile & UI:** Swift (iOS), UX/UI Design  
+- **Other:** Azure, CI implementation, Linux, Three.js  
+
+---
+
+## **How I Work**  
+- **Efficiency-Driven** – Always focused on creating **lightweight and high-performance applications**.  
+- **Scalability & Maintainability** – Designing **clean, structured architectures** that evolve with the project.  
+- **User-Centric Approach** – Ensuring every application is **intuitive, accessible, and visually optimized**.  
+
+---
+
+## **Let's Connect**  
+📩 **Email:** [glushenkovamasha@gmail.com](mailto:glushenkovamasha@gmail.com)  
 
