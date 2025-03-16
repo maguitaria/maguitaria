@@ -1,5 +1,5 @@
 ## **About Me**  
-I build **scalable applications** with a focus on **architecture, UI/UX, and performance**. My expertise spans **web development, iOS, and 3D programming**, designing **lightweight, efficient, and user-friendly software**.  
+I build **scalable applications** with a focus on **architecture, UI/UX, and performance**. My expertise spans **web development, designing **lightweight, efficient, and user-friendly software**.  
 
 ## **Experience**  
 
