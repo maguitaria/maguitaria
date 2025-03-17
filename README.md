@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bicycle Infrastructure in Vienna](https://blog-website-gold-one.vercel.app/post/cycling-infrastructure-vienna/)
+- [Made in Japan — Akio Morita and Sony](https://blog-website-gold-one.vercel.app/post/sony_made_in_japan/)
+- [How Secure is your iPhone?](https://blog-website-gold-one.vercel.app/post/encoding_iphone/)
+- [Google’s Pronunciation Tool](https://blog-website-gold-one.vercel.app/post/google_pronunciation/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
