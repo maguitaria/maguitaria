@@ -19,11 +19,6 @@
 
 - ⚡ Fun fact **Currently in my Erasmus, Austria :)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Your trial feed URL has expired  on Sun Mar 30, 2025](https://www.mysitemapgenerator.com/rss/index.html)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mariiaglushenkova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariiaglushenkova" height="30" width="40" /></a>
